@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MA</string>
+    <string name="SignUp">SignUp</string>
+    <string name="Login">Login</string>
+    <string name="Capture">Capture</string>
+    <string name="SignOut">Sign Out</string>
+    <string name="Upload">Upload</string>
+</resources>
